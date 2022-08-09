@@ -1,0 +1,12 @@
+[{
+	"x":40,
+	"y":161,
+	"width":470,
+	"height":264,
+	"class":"video",
+	"data":
+		{
+			"videodir": "video/12.mp4"
+		}
+}
+]
